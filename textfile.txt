@@ -1,0 +1,3 @@
+cors - initialize any backend from frontend
+toast - for notifications
+react router dom - navigate to pages 
