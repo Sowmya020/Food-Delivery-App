@@ -29,37 +29,37 @@ A full-stack food delivery application built during your tech journey. Users can
 
 ## 🔧 Installation
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/Sowmya020/Food-Delivery-App.git
 cd Food-Delivery-App
 
-# 2. Setup Backend
+2. Setup Backend
 cd backend
 
-# 3. Install backend dependencies
+3. Install backend dependencies
 
-# 4. Create environment file for backend
+4. Create environment file for backend
 cp .env.example .env
-# (Edit the .env file with your MongoDB URI and JWT_SECRET)
+(Edit the .env file with your MongoDB URI and JWT_SECRET)
 
-# 5. Start backend server
+5. Start backend server
 npm run server
-# (Runs on http://localhost:3000)
+(Runs on http://localhost:3000)
 
-# 6. Open a new terminal for frontend setup
+6. Open a new terminal for frontend setup
 cd ../frontend
 
-# 7. Install frontend dependencies
+7. Install frontend dependencies
 
-# 8. Start frontend server
+8. Start frontend server
 npm run dev
-# (Runs on http://localhost:5173)
+(Runs on http://localhost:5173)
 
-# 9. Open a new terminal for admin setup
+9. Open a new terminal for admin setup
 cd ../admin
 
-# 10. Install admin dependencies
+10. Install admin dependencies
 
-# 11. Start frontend server
+11. Start frontend server
 npm run dev
-# (Runs on http://localhost:5174)
+(Runs on http://localhost:5174)
