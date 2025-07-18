@@ -1,6 +1,6 @@
 # 🍽️ Food Delivery App
 
-A full-stack food delivery application built during your tech journey. Users can explore nearby restaurants, view menus, place orders, and track delivery—all in a seamless experience.
+A full-stack food delivery application built during my tech journey. Users can view menus, place orders, and track delivery—all in a seamless experience.
 
 ---
 
