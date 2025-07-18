@@ -29,14 +29,14 @@ A full-stack food delivery application built during your tech journey. Users can
 
 ## 🔧 Installation
 
-1. Clone the repository
+- Clone the repository
 git clone https://github.com/Sowmya020/Food-Delivery-App.git
 cd Food-Delivery-App
 
-2. Setup Backend
+- Setup Backend
 cd backend
 
-3. Install backend dependencies
+- Install backend dependencies
 
 4. Create environment file for backend
 cp .env.example .env
